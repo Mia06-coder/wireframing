@@ -83,8 +83,6 @@ There are several tools available to help designers create effective wireframes.
 - **Figma** – A web-based design and collaboration platform with powerful wireframing capabilities.
 - **Wireframe.cc** – Minimalistic, beginner-friendly wireframing tool focused on simplicity.
 
-
-
 ### 🌟 Why Use Figma?
 
 **Figma** is widely regarded as one of the best tools for both beginner and professional designers.
@@ -99,3 +97,30 @@ There are several tools available to help designers create effective wireframes.
 
 Figma is ideal for creating both **low- and high-fidelity wireframes**, enabling faster iteration and better communication throughout the design process.
 
+## 🎯 Benefits of Wireframing in Software Development
+
+Wireframing plays a vital role in the software development process by providing a **visual blueprint** of the user interface before any code is written. It helps teams stay aligned, minimise misunderstandings, and build products with clarity and purpose.
+
+### 1. Clarifies Design Intent Early
+Wireframes give developers and stakeholders a clear view of the interface structure and flow without distractions from colours or visuals.  
+**Example**: A wireframe of the booking page can show exactly where the calendar and payment form go—before any styling is applied.
+
+### 2. Improves Team Communication
+Wireframes serve as a **shared reference point** for discussions between developers, designers, product managers, and clients.
+
+**Example**: A high-fidelity wireframe in Figma allows all stakeholders to leave comments and ask questions directly on the layout, reducing miscommunication.
+
+### 3. Supports Rapid Iteration
+Since wireframes are faster to create than polished UIs, they allow for **quick revisions** based on feedback. This saves time and money during development.
+
+**Example**: Testing a wireframe of the homepage helps identify confusing navigation before any code is written.
+
+### 4. Defines Functional Scope Clearly
+Each section of a wireframe can help define **specific features** and functionality, forming a strong foundation for writing user stories or acceptance criteria.
+
+**Example**: Seeing a wireframe with a filter bar helps product owners write clearer requirements like “User can filter listings by price, location, and rating.”
+
+### 5. Reduces Development Risk
+Early visualisation allows teams to catch usability issues before development begins—preventing expensive rework later on.
+
+Wireframing is a **bridge between ideas and implementation**. It keeps the development process user-centered and strategically aligned with project goals.
