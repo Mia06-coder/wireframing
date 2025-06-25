@@ -71,3 +71,31 @@ The wireframes displayed [here](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPt
 - Include content such as placeholder text and reviews
 - Present detailed flows like login, listing views, and booking forms
 - Designed with pixel-perfect accuracy and branding alignment
+
+## 🛠️ Wireframing Tools
+
+There are several tools available to help designers create effective wireframes. The right tool depends on your team’s needs, level of fidelity required, and collaboration style.
+
+### 🧰 Popular Wireframing Tools
+- **Balsamiq** – Known for quick low-fidelity wireframes that mimic hand-drawn sketches.
+- **Adobe XD** – Powerful for high-fidelity designs with robust prototyping features.
+- **Sketch** – Popular among Mac users; clean interface and plugin support.
+- **Figma** – A web-based design and collaboration platform with powerful wireframing capabilities.
+- **Wireframe.cc** – Minimalistic, beginner-friendly wireframing tool focused on simplicity.
+
+
+
+### 🌟 Why Use Figma?
+
+**Figma** is widely regarded as one of the best tools for both beginner and professional designers.
+
+#### ✨ Key Features:
+- **Web-based**: Accessible from any browser without installation
+- **Real-time collaboration**: Work together with teammates just like Google Docs
+- **Component-based design**: Reuse design elements for consistency
+- **Responsive layout support**: Design for multiple screen sizes
+- **Prototype linking**: Turn wireframes into interactive flows
+- **Easy developer handoff**: Share specs and assets instantly
+
+Figma is ideal for creating both **low- and high-fidelity wireframes**, enabling faster iteration and better communication throughout the design process.
+
