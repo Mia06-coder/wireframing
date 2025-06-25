@@ -64,7 +64,7 @@ High-fidelity wireframes are **pixel-precise representations** of the interface,
 
 ## 🖼️ Wireframe Example Analysis
 
-The wireframes displayed [here](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=ELTBwy6FUa5SMkb1-0) are **high-fidelity wireframes**.
+The wireframes displayed [here](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8s/Project-Airbnb?node-id=1-2&p=f&t=ELTBwy6FUa5SMkb1-0) are **high-fidelity wireframes**.
 
 ### 📌 Why?
 - They feature real UI components (buttons, icons, images)
@@ -124,3 +124,37 @@ Each section of a wireframe can help define **specific features** and functional
 Early visualisation allows teams to catch usability issues before development begins—preventing expensive rework later on.
 
 Wireframing is a **bridge between ideas and implementation**. It keeps the development process user-centered and strategically aligned with project goals.
+
+## 🧪 Wireframing in Practice
+
+### 🔍 Real-World Scenario: Wireframing Uncovers Usability Issues
+
+**Scenario:**  
+A travel booking website team created wireframes for a new hotel search interface. During early wireframe testing with users, several usability issues emerged:
+
+- Users struggled to find the date picker for selecting check-in/check-out dates.
+- The “Search” button was placed below the fold, causing confusion and missed interactions.
+- Important filters (like price range and star rating) were buried under secondary menus, making them hard to access.
+</br>
+
+**Resolution:**  
+Based on user feedback, the team made the following changes directly in the wireframes:
+
+- Moved the date picker to a prominent position at the top of the search form.
+- Relocated the “Search” button to be immediately visible after entering search criteria.
+- Elevated key filters to the main interface, ensuring they were accessible without extra clicks.
+
+These changes were quickly iterated in the wireframes and retested, confirming improved user flow and satisfaction before any development began.
+
+### 🌟 Impact on the Final Product:
+By resolving these issues early, the team avoided costly redesigns during development. The final product launched with a streamlined search experience, leading to higher user engagement and fewer support queries.
+</br>
+
+### 🧩 Role of Wireframing in User-Friendly Design
+
+Wireframing acts as a low-cost, high-impact tool to:
+
+- Visualise and test layout, navigation, and content hierarchy before development.
+- Identify and fix usability issues early, saving time and resources.
+- Facilitate collaboration and clear communication among designers, developers, and stakeholders.
+- Ensure the final product is intuitive and meets user needs.
